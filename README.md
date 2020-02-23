@@ -1,1 +1,1 @@
-# Series-de-tiempo
+# PCA, UMAP y Series de tiempo
